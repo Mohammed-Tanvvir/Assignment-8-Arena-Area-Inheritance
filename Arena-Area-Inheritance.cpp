@@ -1,14 +1,3 @@
-/*==========================================================
-
- Title:       Assignment 8 - Arena Area Inheritance
- Course:      CIS 2252
- Author:      <mohammed tanvvir>
- Date:        < 8/8 /23 >
- Description: This program ....
-
- ==========================================================
-*/
-
 #include <iostream>
 #include <cmath>
 using namespace std;
